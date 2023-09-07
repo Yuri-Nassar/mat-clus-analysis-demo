@@ -1,1 +1,1 @@
-# Multiple Aspect Trajectory Clsutering Analysis
+# Multiple Aspect Trajectory Clustering Analysis
