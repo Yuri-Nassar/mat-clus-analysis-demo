@@ -2,4 +2,4 @@
 
 You can use this tool in Colab (recommend) or locally.
 The tool will start after the nootebook finish its execution.
-Remeber to install the requeriments to run locally the application.
+Remeber to install the requirements to run locally the application.
